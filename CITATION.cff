@@ -1,16 +1,15 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the paper below. To cite the software itself, use these metadata."
-title: "CBWA: reference implementation of Class-Balance-Aware Weighted Aggregation"
+title: "CBWA: training and evaluation pipeline for Class-Balance-Aware Weighted Aggregation"
 type: software
-version: 1.0.0
-date-released: 2026-11-02
+version: 2.0.0
 license: MIT
 repository-code: "https://github.com/tiyaagarwal/cbwa-aggregation"
 authors:
-  - family-names: Patil
-    given-names: Chaitanya
+  - family-names: Agarwal
+    given-names: Tiya
     affiliation: "Vellore Institute of Technology"
-    orcid: "https://orcid.org/0009-0008-7153-038X"
+    orcid: "https://orcid.org/0009-0006-8610-2818"
 keywords:
   - federated learning
   - model aggregation
@@ -27,5 +26,5 @@ preferred-citation:
     - family-names: Saman
       given-names: Sangeetha
   journal: "Results in Engineering"
-  status: in-preparation
+  status: submitted
   year: 2026

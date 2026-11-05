@@ -6,7 +6,7 @@ Reference implementation of the aggregation rule from:
 
 **What this repository is.** An independent, tested implementation of the CBWA server rule, written from the paper's description. It reproduces every number the paper derives from the rule: **44 of 44 values match** ([results/paper_numbers.md](results/paper_numbers.md)).
 
-**What it is not.** It is not the training pipeline used for the paper's experiments (I3D model, FLPedBrain data loading, Kaggle scripts). That pipeline is available from the corresponding author on reasonable request.
+**What it is not.** It is not the training pipeline used for the paper's experiments (I3D model, FLPedBrain data loading, Kaggle scripts). That pipeline is in [`pipeline/`](pipeline/) (code only; the gated data and model weights are not included).
 
 ## The rule
 

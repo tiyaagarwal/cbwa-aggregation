@@ -1,0 +1,20 @@
+{
+  "title": "CBWA: reference implementation of Class-Balance-Aware Weighted Aggregation",
+  "upload_type": "software",
+  "description": "Independent, tested reference implementation of the Class-Balance-Aware Weighted Aggregation (CBWA) rule for federated learning, described in T. Agarwal, C. Patil and S. Saman, 'Class-Balance-Aware Weighted Aggregation for Federated Pediatric Brain Tumor MRI Classification and Segmentation'. The package implements Eqs. (1), (3), (4) and (5) with the weight floor and momentum, and reproduces every number the paper derives from the rule (44 of 44 values). It is not the training pipeline used for the paper's experiments.",
+  "creators": [
+    {
+      "name": "Patil, Chaitanya",
+      "affiliation": "Vellore Institute of Technology"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "federated learning",
+    "model aggregation",
+    "class imbalance",
+    "medical imaging",
+    "brain tumor"
+  ],
+  "version": "1.0.0"
+}

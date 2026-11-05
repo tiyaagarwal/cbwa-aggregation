@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below. To cite the software itself, use these metadata."
+title: "CBWA: reference implementation of Class-Balance-Aware Weighted Aggregation"
+type: software
+version: 1.0.0
+date-released: 2026-11-02
+license: MIT
+repository-code: "https://github.com/tiyaagarwal/cbwa-aggregation"
+authors:
+  - family-names: Patil
+    given-names: Chaitanya
+    affiliation: "Vellore Institute of Technology"
+    orcid: "https://orcid.org/0009-0008-7153-038X"
+keywords:
+  - federated learning
+  - model aggregation
+  - class imbalance
+  - medical imaging
+preferred-citation:
+  type: article
+  title: "Class-Balance-Aware Weighted Aggregation for Federated Pediatric Brain Tumor MRI Classification and Segmentation"
+  authors:
+    - family-names: Agarwal
+      given-names: Tiya
+    - family-names: Patil
+      given-names: Chaitanya
+    - family-names: Saman
+      given-names: Sangeetha
+  journal: "Results in Engineering"
+  status: in-preparation
+  year: 2026

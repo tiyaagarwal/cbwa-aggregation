@@ -1,7 +1,7 @@
 {
   "title": "CBWA: training and evaluation pipeline for Class-Balance-Aware Weighted Aggregation",
   "upload_type": "software",
-  "description": "Code used for the experiments in T. Agarwal, C. Patil and S. Saman, 'Class-Balance-Aware Weighted Aggregation for Federated Pediatric Brain Tumor MRI Classification and Segmentation' (Results in Engineering, submitted): data preparation, federated training of FedAvg, FedProx and CBWA with a pretrained I3D model, evaluation and significance tests. Code only; no MRI data, masks, model weights or access tokens.",
+  "description": "Code used for the experiments in T. Agarwal, C. Patil and S. Saman, 'Class-Balance-Aware Weighted Aggregation for Federated Pediatric Brain Tumor MRI Classification and Segmentation' (Results in Engineering, submitted): data preparation, federated training of FedAvg, FedProx and CBWA with a pretrained I3D model, evaluation and significance tests. Includes the Kaggle results reported in the paper. No MRI data, masks, model weights or access tokens.",
   "creators": [
     {"name": "Agarwal, Tiya", "affiliation": "Vellore Institute of Technology", "orcid": "0009-0006-8610-2818"}
   ],

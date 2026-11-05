@@ -1,0 +1,5 @@
+patient,true_type,model,predicted_type,probability,dice,correct
+Patient 1,PA,CBWA,PA,0.99,0.869,True
+Patient 1,PA,FedAvg,PA,0.64,0.724,True
+Patient 2,MB,CBWA,MB,1.0,0.85,True
+Patient 2,MB,FedAvg,PA,0.79,0.727,False

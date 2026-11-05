@@ -4,7 +4,7 @@ The code used to run the paper's experiments on Kaggle (2 × NVIDIA T4): data pr
 federated training of FedAvg, FedProx and CBWA with the pretrained I3D model, evaluation,
 significance tests and the live demonstration that draws Fig. 9.
 
-This folder contains **code only**. It contains no MRI data, masks, model weights or access tokens.
+This folder contains the code and the results reported in the paper ([`results/`](results/)). It contains no MRI data, masks, model weights or access tokens.
 
 ## What you need
 
@@ -35,6 +35,7 @@ The scripts expect everything under `/kaggle/working`; set `FEDCB_ROOT` to use a
 | `scripts/diagnose_external_site.py` | Per-class probabilities on the external hospital AU (Table 14) |
 | `tests/test_cbwa.py` | Checks the CBWA rule inside a training script: `python tests/test_cbwa.py src/train_pretrained_baselines.py` |
 | `tests/make_mock_federation.py` | Small synthetic federation for running the scripts on CPU |
+| `results/` | The Kaggle results reported in the paper (see [`results/README.md`](results/README.md)) |
 
 `src/authors_models_eval.py` reads a Hugging Face token from a Kaggle secret named `HF_TOKEN` at run time; no token is stored here.
 

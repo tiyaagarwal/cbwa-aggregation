@@ -1,0 +1,147 @@
+[
+  {
+    "round": 1,
+    "warmup": true
+  },
+  {
+    "round": 2,
+    "warmup": true
+  },
+  {
+    "round": 3,
+    "warmup": true
+  },
+  {
+    "round": 4,
+    "warmup": true
+  },
+  {
+    "round": 5,
+    "warmup": true,
+    "in_net_f1": 0.32626237254589796,
+    "in_net_acc": 0.5188755542039871,
+    "in_net_dice": 0.04097794093922695,
+    "AU_f1": 0.0,
+    "AU_dice": 0.04428262279058496,
+    "AU_worst": 0.0,
+    "TK_f1": 0.18421052396297455,
+    "TK_dice": 0.04667486002047857,
+    "TK_worst": 0.0
+  },
+  {
+    "round": 6,
+    "warmup": true
+  },
+  {
+    "round": 7,
+    "warmup": true
+  },
+  {
+    "round": 8,
+    "warmup": true
+  },
+  {
+    "round": 9,
+    "warmup": true
+  },
+  {
+    "round": 10,
+    "warmup": true,
+    "in_net_f1": 0.32626237254589796,
+    "in_net_acc": 0.5188755542039871,
+    "in_net_dice": 0.10779995727779329,
+    "AU_f1": 0.0,
+    "AU_dice": 0.1329500375625988,
+    "AU_worst": 0.0,
+    "TK_f1": 0.18421052396297455,
+    "TK_dice": 0.2970593801389138,
+    "TK_worst": 0.0
+  },
+  {
+    "round": 11,
+    "warmup": true
+  },
+  {
+    "round": 12,
+    "warmup": true
+  },
+  {
+    "round": 13,
+    "warmup": true
+  },
+  {
+    "round": 14,
+    "warmup": true
+  },
+  {
+    "round": 15,
+    "warmup": true,
+    "in_net_f1": 0.3460498347412795,
+    "in_net_acc": 0.464877056889236,
+    "in_net_dice": 0.1027747550005513,
+    "AU_f1": 0.0,
+    "AU_dice": 0.14533710510780415,
+    "AU_worst": 0.0,
+    "TK_f1": 0.15625,
+    "TK_dice": 0.19579588963339725,
+    "TK_worst": 0.0
+  },
+  {
+    "round": 16,
+    "warmup": true
+  },
+  {
+    "round": 17,
+    "warmup": true
+  },
+  {
+    "round": 18,
+    "warmup": true
+  },
+  {
+    "round": 19,
+    "warmup": true
+  },
+  {
+    "round": 20,
+    "warmup": true,
+    "in_net_f1": 0.2104866820542763,
+    "in_net_acc": 0.2683295109309256,
+    "in_net_dice": 0.25454886805532667,
+    "AU_f1": 0.0,
+    "AU_dice": 0.4818290763165957,
+    "AU_worst": 0.0,
+    "TK_f1": 0.07692307978868484,
+    "TK_dice": 0.43939988595593604,
+    "TK_worst": 0.0
+  },
+  {
+    "round": 21,
+    "warmup": false
+  },
+  {
+    "round": 22,
+    "warmup": false
+  },
+  {
+    "round": 23,
+    "warmup": false
+  },
+  {
+    "round": 24,
+    "warmup": false
+  },
+  {
+    "round": 25,
+    "warmup": false,
+    "in_net_f1": 0.30085385676162935,
+    "in_net_acc": 0.42726537492126226,
+    "in_net_dice": 0.26033415521767966,
+    "AU_f1": 0.0,
+    "AU_dice": 0.3563272040337324,
+    "AU_worst": 0.0,
+    "TK_f1": 0.15625,
+    "TK_dice": 0.4021661590054464,
+    "TK_worst": 0.0
+  }
+]

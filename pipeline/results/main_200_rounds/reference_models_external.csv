@@ -1,0 +1,5 @@
+model,AU_F1,AU_Dice,TK_F1,TK_Dice
+FedAvg (ours),0.884,0.699,0.428,0.623
+CBWA (ours),0.884,0.801,0.452,0.759
+Reference FL,0.884,0.811,0.548,0.735
+Reference centralised,1.0,0.937,1.0,0.936

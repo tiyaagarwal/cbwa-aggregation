@@ -1,0 +1,5 @@
+split,model,EP_f1,EP_correct,EP_patients,DIPG_f1,DIPG_correct,DIPG_patients,MB_f1,MB_correct,MB_patients,PA_f1,PA_correct,PA_patients
+in-network,FedAvg,0.531,17,31,0.779,37,45,0.650,51,91,0.509,29,48
+in-network,CBWA,0.400,12,31,0.759,33,45,0.682,59,91,0.509,28,48
+external,FedAvg,0.000,0,2,0.870,20,25,0.545,3,7,0.364,2,2
+external,CBWA,0.000,0,2,0.889,20,25,0.400,2,7,0.308,2,2
